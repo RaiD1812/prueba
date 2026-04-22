@@ -1,0 +1,3137 @@
+[
+  {
+    "ID_SITE": 2976,
+    "NOMBRE_EQUIPO": "LP3214_CIUDAD CONSTITUCION_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 716,
+    "NOMBRE_EQUIPO": "TA8305_PDI CHIMBOTE_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5463,
+    "NOMBRE_EQUIPO": "TA5763_PISCOBAMBA_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4063,
+    "NOMBRE_EQUIPO": "TP6142_PAITA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 6008,
+    "NOMBRE_EQUIPO": "LH2927_HUANUCO CENTRO_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 1552,
+    "NOMBRE_EQUIPO": "TA5655_EL PINAR_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4198,
+    "NOMBRE_EQUIPO": "TP6251_SULLANA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 974,
+    "NOMBRE_EQUIPO": "T5176_ATACOCHA CEDRO_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4539,
+    "NOMBRE_EQUIPO": "LS3381_NUEVA CAJAMARCA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 3489,
+    "NOMBRE_EQUIPO": "TP6276_TALARA_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 3022,
+    "NOMBRE_EQUIPO": "LS3278_MORALES 2_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4907,
+    "NOMBRE_EQUIPO": "TP6146_CHULUCANAS_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 3022,
+    "NOMBRE_EQUIPO": "LSD3278_MORALES2_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4060,
+    "NOMBRE_EQUIPO": "TP6137_MANCORA NORTE_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 861,
+    "NOMBRE_EQUIPO": "LS3380_RIOJA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4714,
+    "NOMBRE_EQUIPO": "TT6302_GENERAL MORZAN_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 428,
+    "NOMBRE_EQUIPO": "LH3001_TINGO MARIA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 2017,
+    "NOMBRE_EQUIPO": "TC1121-REJO_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 2974,
+    "NOMBRE_EQUIPO": "LP3205_POZUZO_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 798,
+    "NOMBRE_EQUIPO": "TM5580_PEDRO RUIZ GALLO_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5450,
+    "NOMBRE_EQUIPO": "TA5651_RECUAY_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 948,
+    "NOMBRE_EQUIPO": "TJ5113_SEDE TRUJILLO_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 3764,
+    "NOMBRE_EQUIPO": "LS3382_SAN_JOSE_SISA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4889,
+    "NOMBRE_EQUIPO": "TM5577_BAGUA_GRANDE_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4529,
+    "NOMBRE_EQUIPO": "LS3351_MOYOBAMBA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 716,
+    "NOMBRE_EQUIPO": "TA8305_PDI CHIMBOTE_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4442,
+    "NOMBRE_EQUIPO": "TP6279_ENACE_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 969,
+    "NOMBRE_EQUIPO": "TJ5169_TAYABAMBA_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 433,
+    "NOMBRE_EQUIPO": "TP6285_LOMAS_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 612,
+    "NOMBRE_EQUIPO": "TJ4155_PUENTE VIRU_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4863,
+    "NOMBRE_EQUIPO": "TA5639_CASMA_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 2938,
+    "NOMBRE_EQUIPO": "LLD3412_YURIMAGUAS_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4064,
+    "NOMBRE_EQUIPO": "TP6147_TAMBO GRANDE_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4920,
+    "NOMBRE_EQUIPO": "TA5626_COISHCO_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5451,
+    "NOMBRE_EQUIPO": "TA5656_CHAVIN DE HUANTAR_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4460,
+    "NOMBRE_EQUIPO": "TT6305_ZORRITOS_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5450,
+    "NOMBRE_EQUIPO": "TA5651_RECUAY_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 969,
+    "NOMBRE_EQUIPO": "TJ5169_TAYABAMBA_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 1797,
+    "NOMBRE_EQUIPO": "TP6149_SAN MARTIN DE PIURA_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5451,
+    "NOMBRE_EQUIPO": "TA5656_CHAVIN DE HUANTAR_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 2938,
+    "NOMBRE_EQUIPO": "LLD3412_YURIMAGUAS_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 1797,
+    "NOMBRE_EQUIPO": "TP6149_SAN MARTIN DE PIURA_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5470,
+    "NOMBRE_EQUIPO": "TA5804_HUARMEY_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4068,
+    "NOMBRE_EQUIPO": "TP6152_AYABACA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 974,
+    "NOMBRE_EQUIPO": "TJ5176_ATACOCHA CEDRO_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5463,
+    "NOMBRE_EQUIPO": "TA5763_PISCOBAMBA_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4444,
+    "NOMBRE_EQUIPO": "TP6282_ORGANOS_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4442,
+    "NOMBRE_EQUIPO": "TP6279_ENACE_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4920,
+    "NOMBRE_EQUIPO": "TA5626_COISHCO_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4113,
+    "NOMBRE_EQUIPO": "TJ5272_ESTADIO HUAMACHUCO_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4460,
+    "NOMBRE_EQUIPO": "TT6305_ZORRITOS_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 875,
+    "NOMBRE_EQUIPO": "TC5836_CELENDIN_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 535,
+    "NOMBRE_EQUIPO": "TJ5090_CHAO_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5497,
+    "NOMBRE_EQUIPO": "TC5839_JAEN NORTE_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4447,
+    "NOMBRE_EQUIPO": "TP6291_HUANCABAMBA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 948,
+    "NOMBRE_EQUIPO": "TJ5113_SEDE TRUJILLO_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5470,
+    "NOMBRE_EQUIPO": "TA5804_HUARMEY_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4863,
+    "NOMBRE_EQUIPO": "TA5639_CASMA_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5312,
+    "NOMBRE_EQUIPO": "TP2287_PDI PIURA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 3022,
+    "NOMBRE_EQUIPO": "LSD3278_MORALES2_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 5450,
+    "NOMBRE_EQUIPO": "TA5651_RECUAY_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 2281,
+    "NOMBRE_EQUIPO": "TP0030_MORROPON_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4033,
+    "NOMBRE_EQUIPO": "TM5578_BAGUA CHICA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 3489,
+    "NOMBRE_EQUIPO": "TP6276_TALARA_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4444,
+    "NOMBRE_EQUIPO": "TP6282_LOS ORGANOS_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4714,
+    "NOMBRE_EQUIPO": "TT6302_GENERAL MORZAN_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 1753,
+    "NOMBRE_EQUIPO": "TC5845_BAMBAMARCA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4113,
+    "NOMBRE_EQUIPO": "TJ5272_ESTADIO HUAMACHUCO_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4060,
+    "NOMBRE_EQUIPO": "TP6137_MANCORANORTE_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 535,
+    "NOMBRE_EQUIPO": "TJ5090_CHAO_TOP",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 612,
+    "NOMBRE_EQUIPO": "TJ4155_PUENTE VIRU_NX41-21",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 715,
+    "NOMBRE_EQUIPO": "TC8300_PDI CAJAMARCA_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 6139,
+    "NOMBRE_EQUIPO": "TJ8751_DON FRANCISCO_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 464,
+    "NOMBRE_EQUIPO": "TC5829_KM24 YANACOCHA NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 2599,
+    "NOMBRE_EQUIPO": "TC5871_DORSAL AGOPITI_NXG1-19",
+    "VENDOR": "ZTE"
+  },
+  {
+    "ID_SITE": 4534,
+    "NOMBRE_EQUIPO": "LCF2603_Nazca_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4578,
+    "NOMBRE_EQUIPO": "LCF2501_LasDunas_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5497,
+    "NOMBRE_EQUIPO": "TCD5839_JaenNorte_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4033,
+    "NOMBRE_EQUIPO": "TMD5578_BaguaChica_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4889,
+    "NOMBRE_EQUIPO": "TMD5577_BaguaGrande_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 803,
+    "NOMBRE_EQUIPO": "TPD6157_CerroLaCruz_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LID0341_ NodoTelepuerto_1_BWS1600G_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LID0341_ NodoTelepuerto_1_BWS1600G_3",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LID0719_SegundoPolo_Sur_1_BWS1600G_3",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LID1000_Polo01_Sur_1_BWS1600G_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LID0719_SegundoPolo_Sur_2_BWS1600G_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LID0719_SegundoPolo_Sur_2_BWS1600G_3",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LID0719_SegundoPolo_Sur_1_BWS1600G_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LID0341_ NodoTelepuerto_2_BWS1600G_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LID1000_Polo01_Sur_1_BWS1600G_3",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LID0341_ NodoTelepuerto_2_BWS1600G_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3475,
+    "NOMBRE_EQUIPO": "LCF2602_LosCerrillos_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4539,
+    "NOMBRE_EQUIPO": "LSF3381_NuevaCajamarca_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4539,
+    "NOMBRE_EQUIPO": "LSF3381_NuevaCajamarca_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LID0341_ NodoTelepuerto_2_BWS1600G_3",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2805,
+    "NOMBRE_EQUIPO": "TCF5881_Chilete_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3081,
+    "NOMBRE_EQUIPO": "POPCallao_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7578,
+    "NOMBRE_EQUIPO": "POPSanFelipe2_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 718,
+    "NOMBRE_EQUIPO": "PDIIca_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2599,
+    "NOMBRE_EQUIPO": "TCD5871_DorsalAgopiti_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3501,
+    "NOMBRE_EQUIPO": "ACF4451_Sicuani_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2122,
+    "NOMBRE_EQUIPO": "POPColonial_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4907,
+    "NOMBRE_EQUIPO": "TPD6146_Chulucanas_OSN6800_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3025,
+    "NOMBRE_EQUIPO": "LSD3284_Tocache_OSN8800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3118,
+    "NOMBRE_EQUIPO": "POPSanMiguel_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5536,
+    "NOMBRE_EQUIPO": "TJF5098_Pacasmayo_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 798,
+    "NOMBRE_EQUIPO": "TMD5580_PedroRuiz_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 798,
+    "NOMBRE_EQUIPO": "TMD5580_PedroRuiz_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2106,
+    "NOMBRE_EQUIPO": "POPIngenieria_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2141,
+    "NOMBRE_EQUIPO": "POPMonterrico_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2126,
+    "NOMBRE_EQUIPO": "POPAviacion_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2548,
+    "NOMBRE_EQUIPO": "PDITacna_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3050,
+    "NOMBRE_EQUIPO": "LMF8282_Chaspi_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5964,
+    "NOMBRE_EQUIPO": "LMF3563_FloridaAlta_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1228,
+    "NOMBRE_EQUIPO": "LMF3501_PuertoMaldonado1_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3084,
+    "NOMBRE_EQUIPO": "POPSantaLuzmila_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3088,
+    "NOMBRE_EQUIPO": "POPCamacho_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2140,
+    "NOMBRE_EQUIPO": "POPLaMolina_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5801,
+    "NOMBRE_EQUIPO": "APF4781_SanGaban_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2141,
+    "NOMBRE_EQUIPO": "POPMonterrico_100GFotonico_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2126,
+    "NOMBRE_EQUIPO": "POPAviacion_100GFotonico_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3787,
+    "NOMBRE_EQUIPO": "PDIHUACHO_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 715,
+    "NOMBRE_EQUIPO": "PDICajamarca_100G_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 718,
+    "NOMBRE_EQUIPO": "PDIIca_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2548,
+    "NOMBRE_EQUIPO": "PDITacna_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5236,
+    "NOMBRE_EQUIPO": "PDIOlmos_100G_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5536,
+    "NOMBRE_EQUIPO": "TJF5098_Pacasmayo_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5112,
+    "NOMBRE_EQUIPO": "TLF5948_LaVictoria_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5112,
+    "NOMBRE_EQUIPO": "TLF5948_LaVictoria_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 462,
+    "NOMBRE_EQUIPO": "PDIAtahualpa_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 462,
+    "NOMBRE_EQUIPO": "PDIAtahualpa_100G_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6008,
+    "NOMBRE_EQUIPO": "LHF2927_HuanucoCentro_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6008,
+    "NOMBRE_EQUIPO": "LHF2927_HuanucoCentro_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 464,
+    "NOMBRE_EQUIPO": "TCD5829_KM24Yanacocha_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 464,
+    "NOMBRE_EQUIPO": "TCD5829_KM24Yanacocha_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1077,
+    "NOMBRE_EQUIPO": "APD4651_Azangaro_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "APD4744_Huisonroque_4_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5177,
+    "NOMBRE_EQUIPO": "APD4648_Putina_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5176,
+    "NOMBRE_EQUIPO": "APD4647_Ananea_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1077,
+    "NOMBRE_EQUIPO": "APD4651_Azangaro_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1735,
+    "NOMBRE_EQUIPO": "LUF3606_Neshuya_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1735,
+    "NOMBRE_EQUIPO": "LUF3606_Neshuya_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 105,
+    "NOMBRE_EQUIPO": "PDIPucallpa_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 105,
+    "NOMBRE_EQUIPO": "PDIPucallpa_100G_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LID0341_ NodoTelepuerto_4_OSN8800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 821,
+    "NOMBRE_EQUIPO": "LIF1003_Casapalca_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1058,
+    "NOMBRE_EQUIPO": "TAF8101_KimanAyllu_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1552,
+    "NOMBRE_EQUIPO": "TAF5655_ElPinar_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 715,
+    "NOMBRE_EQUIPO": "PDICajamarca_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2896,
+    "NOMBRE_EQUIPO": "LJD2693_LaMerced_1_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5703,
+    "NOMBRE_EQUIPO": "ACD4459_MachupicchuCiudad_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4302,
+    "NOMBRE_EQUIPO": "ACD4415_Quillabamba_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4529,
+    "NOMBRE_EQUIPO": "LSF3351_Moyobamba_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6139,
+    "NOMBRE_EQUIPO": "TJD8751_DonFrancisco_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2137,
+    "NOMBRE_EQUIPO": "POPHiguereta_100GFotonico_U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6139,
+    "NOMBRE_EQUIPO": "TJF8751_DonFrancisco_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6139,
+    "NOMBRE_EQUIPO": "TJF8751_DonFrancisco_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3050,
+    "NOMBRE_EQUIPO": "LMF8282_Chaspi_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5964,
+    "NOMBRE_EQUIPO": "LMF3563_FloridaAlta_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1228,
+    "NOMBRE_EQUIPO": "LMF3501_PuertoMaldonado1_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2599,
+    "NOMBRE_EQUIPO": "TCD5871_DorsalAgopiti_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4708,
+    "NOMBRE_EQUIPO": "LVF3054_SantaBarbara_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3754,
+    "NOMBRE_EQUIPO": "LAF2827_AyacuchoMirador_OSN9800U16_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5566,
+    "NOMBRE_EQUIPO": "LPF3213_Chaupimarca_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3373,
+    "NOMBRE_EQUIPO": "ARF4017_Atico_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3411,
+    "NOMBRE_EQUIPO": "ARF3980_BaseOcoña_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 803,
+    "NOMBRE_EQUIPO": "TPF6257_SantaCruzKM50_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 716,
+    "NOMBRE_EQUIPO": "TAF8305_Chimbote_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5829,
+    "NOMBRE_EQUIPO": "ARF3880_Atiquipa_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4897,
+    "NOMBRE_EQUIPO": "TJF5097_Chepen_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 620,
+    "NOMBRE_EQUIPO": "LID0022_LaMilla_Norte_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2896,
+    "NOMBRE_EQUIPO": "LJF2693_LaMerced_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 428,
+    "NOMBRE_EQUIPO": "LHF3001_TingoMaria_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 720,
+    "NOMBRE_EQUIPO": "PDITrujillo_100G_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 428,
+    "NOMBRE_EQUIPO": "LHF3001_TingoMaria_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4447,
+    "NOMBRE_EQUIPO": "TPF6291_Huancabamba_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4907,
+    "NOMBRE_EQUIPO": "TPF6146_Chulucanas_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4907,
+    "NOMBRE_EQUIPO": "TPF6146_Chulucanas_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5312,
+    "NOMBRE_EQUIPO": "PDIPiura_100G_OSN9800_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5312,
+    "NOMBRE_EQUIPO": "PDIPiura_100G_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2895,
+    "NOMBRE_EQUIPO": "LJD2691_Tarma_2_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2896,
+    "NOMBRE_EQUIPO": "LJD2693_LaMerced_2_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3197,
+    "NOMBRE_EQUIPO": "ACD4402_Ollantaytambo_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2695,
+    "NOMBRE_EQUIPO": "ACD4492_Piscacucho_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 737,
+    "NOMBRE_EQUIPO": "LJD8122_OroyaDorsal_2_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1195,
+    "NOMBRE_EQUIPO": "ACD4400_Urubamba_2_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7576,
+    "NOMBRE_EQUIPO": "POPVentanilla_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7576,
+    "NOMBRE_EQUIPO": "POPVentanilla_10G_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 620,
+    "NOMBRE_EQUIPO": "LID0022_LaMilla_MBB_1_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_10G_MBB_NE1_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 620,
+    "NOMBRE_EQUIPO": "LID0022_LaMilla_MBB_2_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_10G_MBB_2_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2565,
+    "NOMBRE_EQUIPO": "LID0210_HijosdeJerusalen_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1716,
+    "NOMBRE_EQUIPO": "LID0209_CerroChoque_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3088,
+    "NOMBRE_EQUIPO": "POPCamacho_100GFotonico_U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2140,
+    "NOMBRE_EQUIPO": "POPLaMolina_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 719,
+    "NOMBRE_EQUIPO": "LJF8308_PDIHuancayo_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4461,
+    "NOMBRE_EQUIPO": "TTD6303_PuntaSal_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LIF0719_SegundoPolo_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4442,
+    "NOMBRE_EQUIPO": "TPD6279_Enace_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1797,
+    "NOMBRE_EQUIPO": "TPD6149_SanMartindePiura_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4058,
+    "NOMBRE_EQUIPO": "TPD6128_Concordia_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 803,
+    "NOMBRE_EQUIPO": "TPD6257_SantaCruz_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LIF0719_SegundoPolo_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5312,
+    "NOMBRE_EQUIPO": "PDIPiura_10G_OSN6800_NE2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2145,
+    "NOMBRE_EQUIPO": "POPSantaAnita_100GFotonico_U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5801,
+    "NOMBRE_EQUIPO": "APF4781_SanGaban_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2105,
+    "NOMBRE_EQUIPO": "POPChorrillos_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2109,
+    "NOMBRE_EQUIPO": "POPOcharan_100GFotonico_U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2105,
+    "NOMBRE_EQUIPO": "POPChorrillos_100GFotonico_U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_10G_Norte_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4714,
+    "NOMBRE_EQUIPO": "TTD6302_GeneralMorzan_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 777,
+    "NOMBRE_EQUIPO": "REDESURMoquegua_10G_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 736,
+    "NOMBRE_EQUIPO": "PDIArequipa_10G_2_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2548,
+    "NOMBRE_EQUIPO": "PDITacna_10G_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5801,
+    "NOMBRE_EQUIPO": "APD4781_SanGaban_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "APD4744_Huisonroque_1_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5964,
+    "NOMBRE_EQUIPO": "LMD3563_FloridaAlta_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3050,
+    "NOMBRE_EQUIPO": "LMD8282_Chaspi_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1228,
+    "NOMBRE_EQUIPO": "LMD3501_PuertoMaldonado1_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5082,
+    "NOMBRE_EQUIPO": "APD4653_Antauta_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5675,
+    "NOMBRE_EQUIPO": "APD4627_Llallahuani_3_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5675,
+    "NOMBRE_EQUIPO": "APD4627_Llallahuani_1_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4431,
+    "NOMBRE_EQUIPO": "PDIJuliaca_10G_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7746,
+    "NOMBRE_EQUIPO": "TAF8871_HuallancaPueblo_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2363,
+    "NOMBRE_EQUIPO": "ACF4405_Tintaya_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3546,
+    "NOMBRE_EQUIPO": "LPD1663_OxapampaPlaza_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2109,
+    "NOMBRE_EQUIPO": "POPOcharan_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3083,
+    "NOMBRE_EQUIPO": "POPLosOlivos_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2133,
+    "NOMBRE_EQUIPO": "POPCotabambas_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3093,
+    "NOMBRE_EQUIPO": "POPZarate_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2137,
+    "NOMBRE_EQUIPO": "POPHiguereta_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5337,
+    "NOMBRE_EQUIPO": "LHF3037_CerroDivisoria_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5337,
+    "NOMBRE_EQUIPO": "LHF3037_CerroDivisoria_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 958,
+    "NOMBRE_EQUIPO": "TJF5143_CERRORAGACHE_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3081,
+    "NOMBRE_EQUIPO": "POPCallao_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7578,
+    "NOMBRE_EQUIPO": "POPSanFelipe2_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_Sur_OSN9800U32_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF0010_polo01_OSN9800U32_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5784,
+    "NOMBRE_EQUIPO": "APF4730_Ilave_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1071,
+    "NOMBRE_EQUIPO": "APD4652_Ayaviri_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 8849,
+    "NOMBRE_EQUIPO": "LJ3969_Puerto_Anapati_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1071,
+    "NOMBRE_EQUIPO": "APD4652_Ayaviri_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5784,
+    "NOMBRE_EQUIPO": "APF4730_Ilave_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "APD4744_Huisonroque_2_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "APD4744_Huisonroque_2_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 8247,
+    "NOMBRE_EQUIPO": "PDIBARRANCA_10G_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 8247,
+    "NOMBRE_EQUIPO": "PDIBarranca_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5312,
+    "NOMBRE_EQUIPO": "PDIPiura_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 803,
+    "NOMBRE_EQUIPO": "TPF6257_SantaCruzKM50_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1550,
+    "NOMBRE_EQUIPO": "ARF3861_ElPeral_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4442,
+    "NOMBRE_EQUIPO": "TPF6279_Enace_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1797,
+    "NOMBRE_EQUIPO": "TPF6149_SanMartindePiura_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2698,
+    "NOMBRE_EQUIPO": "ACD4772_QuiquijanaCusipata_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3501,
+    "NOMBRE_EQUIPO": "ACD4451_Sicuani_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3501,
+    "NOMBRE_EQUIPO": "ACD4451_Sicuani_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7747,
+    "NOMBRE_EQUIPO": "TAF8196_Conococha_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 464,
+    "NOMBRE_EQUIPO": "TCF5829_KM24Yanacocha_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7747,
+    "NOMBRE_EQUIPO": "TAF8196_Conococha_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1854,
+    "NOMBRE_EQUIPO": "ARD3888_BASEMOLLENDO_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 464,
+    "NOMBRE_EQUIPO": "TCF5829_KM24Yanacocha_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4714,
+    "NOMBRE_EQUIPO": "TTF6302_GeneralMorzan_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4714,
+    "NOMBRE_EQUIPO": "TTF6302_GeneralMorzan_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4442,
+    "NOMBRE_EQUIPO": "TPF6279_Enace_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 737,
+    "NOMBRE_EQUIPO": "LJF8122_OroyaDorsal_OSN9800U16_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1797,
+    "NOMBRE_EQUIPO": "TPF6149_SanMartindePiura_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5853,
+    "NOMBRE_EQUIPO": "LJF2686_Jauja_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5082,
+    "NOMBRE_EQUIPO": "APF4653_Antauta_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5082,
+    "NOMBRE_EQUIPO": "APF4653_Antauta_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5450,
+    "NOMBRE_EQUIPO": "TAF5651_Recuay_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACD4353_LaCultura_1_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACD4353_LaCultura_1_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 720,
+    "NOMBRE_EQUIPO": "PDITrujillo_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_100G_OSN9800U16_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 400,
+    "NOMBRE_EQUIPO": "POPAsia_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4902,
+    "NOMBRE_EQUIPO": "LCF2627_Chincha_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5312,
+    "NOMBRE_EQUIPO": "PDIPiura_100G_OSN9800_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1550,
+    "NOMBRE_EQUIPO": "ARF3861_ElPeral_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4058,
+    "NOMBRE_EQUIPO": "TPF6128_Concordia_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN9800U32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LID0719_SEGUNDOPOLO_SUR_3_OSN8800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3328,
+    "NOMBRE_EQUIPO": "LUF3587_Aguaytia_9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3328,
+    "NOMBRE_EQUIPO": "LUF3587_Aguaytia_9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2109,
+    "NOMBRE_EQUIPO": "POPOcharan_10G_OSN1800II",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 948,
+    "NOMBRE_EQUIPO": "TJF5113_Trujillo_OSN9800U16_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACF4353_LaCultura_2_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 798,
+    "NOMBRE_EQUIPO": "TMF5580_PedroRuizGallo_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 798,
+    "NOMBRE_EQUIPO": "TMF5580_PedroRuizGallo_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4907,
+    "NOMBRE_EQUIPO": "TPD6146_Chulucanas_OSN8800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 803,
+    "NOMBRE_EQUIPO": "TPD6257_SantaCruz_OSN8800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5497,
+    "NOMBRE_EQUIPO": "TCF5839_JaenNorte_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4447,
+    "NOMBRE_EQUIPO": "TPF6291_Huancabamba_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5497,
+    "NOMBRE_EQUIPO": "TCF5839_JaenNorte_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 407,
+    "NOMBRE_EQUIPO": "LRF3127_Abancay_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5703,
+    "NOMBRE_EQUIPO": "ACD4459_MachupicchuCiudad_1_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1195,
+    "NOMBRE_EQUIPO": "ACD4400_Urubamba_0_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1195,
+    "NOMBRE_EQUIPO": "ACD4400_URUBAMBA_1_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN9800UPS_SERVICIOS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_ NodoTelepuerto_OSN9800UPS_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 8849,
+    "NOMBRE_EQUIPO": "LJ3969_Puerto_Anapati_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3084,
+    "NOMBRE_EQUIPO": "POPSantaLuzmila_100GFotonico_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1854,
+    "NOMBRE_EQUIPO": "ARF3888_BASEMOLLENDO_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3083,
+    "NOMBRE_EQUIPO": "POPLosOlivos_100GFotonico_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3093,
+    "NOMBRE_EQUIPO": "POPZarate_100GFotonico_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2818,
+    "NOMBRE_EQUIPO": "LRF3126_Andahuaylas_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "APF4744_Huisonroque_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LID0341_NodoTelepuerto_3_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2895,
+    "NOMBRE_EQUIPO": "LJD2691_Tarma_1_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 737,
+    "NOMBRE_EQUIPO": "LJD8122_OroyaDorsal_1_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2610,
+    "NOMBRE_EQUIPO": "LJD1707_SatipoCentro_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3596,
+    "NOMBRE_EQUIPO": "LPD3206_VillaRica_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 751,
+    "NOMBRE_EQUIPO": "TMF5576_Chachapoyas_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACD4353_LaCultura_1_OSN1800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2133,
+    "NOMBRE_EQUIPO": "POPCotabambas_100GFotonico_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_100G_Norte_OSN9800U16_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2122,
+    "NOMBRE_EQUIPO": "POPColonial_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2106,
+    "NOMBRE_EQUIPO": "POPIngenieria_100GFotonico_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3334,
+    "NOMBRE_EQUIPO": "LDS3281_Juanjui_OSN8800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3028,
+    "NOMBRE_EQUIPO": "LSD3288_Bellavista_OSN8800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1735,
+    "NOMBRE_EQUIPO": "LUD3606_Neshuya_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1735,
+    "NOMBRE_EQUIPO": "LUD3606_Neshuya_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 737,
+    "NOMBRE_EQUIPO": "LJF8122_OroyaDorsal_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 737,
+    "NOMBRE_EQUIPO": "LJF8122_OroyaDorsal_OSN9800U16_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 105,
+    "NOMBRE_EQUIPO": "PDIPucallpa_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4461,
+    "NOMBRE_EQUIPO": "TTF6303_PuntaSal_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4461,
+    "NOMBRE_EQUIPO": "TTF6303_PuntaSal_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 740,
+    "NOMBRE_EQUIPO": "POPLurin_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 740,
+    "NOMBRE_EQUIPO": "POPLurin_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LID0719_SEGUNDOPOLO_SUR_4_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LID0341_ NodoTelepuerto_5_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5175,
+    "NOMBRE_EQUIPO": "APF4642_Desaguadero_1_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5175,
+    "NOMBRE_EQUIPO": "APF4642_Desaguadero_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF0010_Polo01_OSN9800U32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3754,
+    "NOMBRE_EQUIPO": "LAF2827_AyacuchoMirador_OSN9800U16_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3754,
+    "NOMBRE_EQUIPO": "LAF2827_AyacuchoMirador_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 948,
+    "NOMBRE_EQUIPO": "TJF5113_Trujillo_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 948,
+    "NOMBRE_EQUIPO": "TJF5113_Trujillo_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2394,
+    "NOMBRE_EQUIPO": "LRF3145_Uripa_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2394,
+    "NOMBRE_EQUIPO": "LRF3145_Uripa_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5175,
+    "NOMBRE_EQUIPO": "APF4642_Desaguadero_2_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2818,
+    "NOMBRE_EQUIPO": "LRF3126_Andahuaylas_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4431,
+    "NOMBRE_EQUIPO": "PDIJuliaca_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7746,
+    "NOMBRE_EQUIPO": "TAF8871_HuallancaPueblo_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3022,
+    "NOMBRE_EQUIPO": "LSF3278_Morales2_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1071,
+    "NOMBRE_EQUIPO": "APF4652_Ayaviri_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "APF4744_Huisonroque_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4431,
+    "NOMBRE_EQUIPO": "PDIJuliaca_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5337,
+    "NOMBRE_EQUIPO": "LHD3037_CerroDivisoria_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5675,
+    "NOMBRE_EQUIPO": "APF4627_Llallahuani_2_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 861,
+    "NOMBRE_EQUIPO": "LSF3380_Rioja_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3328,
+    "NOMBRE_EQUIPO": "LUD3587_Aguaytia_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3328,
+    "NOMBRE_EQUIPO": "LUD3587_Aguaytia_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5337,
+    "NOMBRE_EQUIPO": "LHD3037_CerroDivisoria_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACF4353_LaCultura_1_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACF4353_LaCultura_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 777,
+    "NOMBRE_EQUIPO": "POPMoquegua_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 777,
+    "NOMBRE_EQUIPO": "POPMoquegua_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 717,
+    "NOMBRE_EQUIPO": "PDIChiclayo_100G_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 717,
+    "NOMBRE_EQUIPO": "PDIChiclayo_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5675,
+    "NOMBRE_EQUIPO": "APF4627_Llallahuani_1_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 861,
+    "NOMBRE_EQUIPO": "LSF3380_Rioja_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2896,
+    "NOMBRE_EQUIPO": "LJD2693_LaMerced_OSN1800V",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5675,
+    "NOMBRE_EQUIPO": "APF4627_Llallahuani_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 428,
+    "NOMBRE_EQUIPO": "LHD3001_TingoMaria_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 736,
+    "NOMBRE_EQUIPO": "PDIArequipa_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 105,
+    "NOMBRE_EQUIPO": "PDIPucallpa_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2548,
+    "NOMBRE_EQUIPO": "PDITacna_2_10G_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 428,
+    "NOMBRE_EQUIPO": "LHD3001_TingoMaria_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6008,
+    "NOMBRE_EQUIPO": "LHD2927_HuanucoCentro_OSN8800T32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6008,
+    "NOMBRE_EQUIPO": "LHD2927_HuanucoCentro_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 736,
+    "NOMBRE_EQUIPO": "PDIArequipa_100G_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 861,
+    "NOMBRE_EQUIPO": "LSF3380_Rioja_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1100,
+    "NOMBRE_EQUIPO": "ATD4790_BocaDelRio_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4447,
+    "NOMBRE_EQUIPO": "TPD6291_Huancabamba_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1797,
+    "NOMBRE_EQUIPO": "TPF6149_SanMartindePiura_OSN9800 Service",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1136,
+    "NOMBRE_EQUIPO": "AMD4502_CalientaNegros_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2344,
+    "NOMBRE_EQUIPO": "ACD4433_SiviaPichari_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3754,
+    "NOMBRE_EQUIPO": "LAD2827_AyacuchoMirador_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5633,
+    "NOMBRE_EQUIPO": "ARD3898_PuntaBombon_OSN6800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2805,
+    "NOMBRE_EQUIPO": "TCF5881_Chilete_OSN9800U16",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2137,
+    "NOMBRE_EQUIPO": "POPHiguereta_100G_OSN1800_II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN1800II_TP_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN1800II_TP_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3754,
+    "NOMBRE_EQUIPO": "LAF2827_AyacuchoMirador_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 737,
+    "NOMBRE_EQUIPO": "LJF8122_OroyaDorsal_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 719,
+    "NOMBRE_EQUIPO": "LJF8308_PDIHuancayo_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1550,
+    "NOMBRE_EQUIPO": "ARF3861_ElPeral_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 736,
+    "NOMBRE_EQUIPO": "PDIArequipa_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4431,
+    "NOMBRE_EQUIPO": "PDIJuliaca_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5675,
+    "NOMBRE_EQUIPO": "APF4627_Llallahuani_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1228,
+    "NOMBRE_EQUIPO": "LMD3501_PuertoMaldonado1_1_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1228,
+    "NOMBRE_EQUIPO": "LMD3501_PuertoMaldonado1_2_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1854,
+    "NOMBRE_EQUIPO": "ARD3888_BaseMollendo_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN1800_II_TP_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2962,
+    "NOMBRE_EQUIPO": "LMD3553_CafetalMavila_1_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2962,
+    "NOMBRE_EQUIPO": "LMD3553_CafetalMavila_2_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2548,
+    "NOMBRE_EQUIPO": "PDITacna_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2954,
+    "NOMBRE_EQUIPO": "LMD3505_ IÑAPARI_1_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2955,
+    "NOMBRE_EQUIPO": "LMD3507_Iberia_1_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2954,
+    "NOMBRE_EQUIPO": "LMD3505_ IÑAPARI_2_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2955,
+    "NOMBRE_EQUIPO": "LMD3507_Iberia_2_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACD4353_LaCultura_2_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1195,
+    "NOMBRE_EQUIPO": "ACD4400_Urubamba_3_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 8247,
+    "NOMBRE_EQUIPO": "PDIBarranca_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 948,
+    "NOMBRE_EQUIPO": "TJF5113_Trujillo_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4302,
+    "NOMBRE_EQUIPO": "ACD4415_Quillabamba_1_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3197,
+    "NOMBRE_EQUIPO": "ACD4402_Ollantaytambo_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2818,
+    "NOMBRE_EQUIPO": "LRF3126_Andahuaylas_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACF4353_LaCultura_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 777,
+    "NOMBRE_EQUIPO": "POPMoquegua_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_100GFotonico_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1201,
+    "NOMBRE_EQUIPO": "ACF4417_Urcos_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 718,
+    "NOMBRE_EQUIPO": "PDIICA_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 720,
+    "NOMBRE_EQUIPO": "PDITrujillo_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 861,
+    "NOMBRE_EQUIPO": "LSF3380_Rioja_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5312,
+    "NOMBRE_EQUIPO": "PDIPiura_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3022,
+    "NOMBRE_EQUIPO": "LSF3278_Morales2_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 105,
+    "NOMBRE_EQUIPO": "PDIPucallpa_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7747,
+    "NOMBRE_EQUIPO": "TAF8196_Conococha_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN1800_II_TP_NE2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN1800_II_TP_NE3",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN1800II_TP_3",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN1800II_TP_4",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2122,
+    "NOMBRE_EQUIPO": "POPColonial_100G_OSN1800_II_TP_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2122,
+    "NOMBRE_EQUIPO": "POPColonial_100G_OSN1800_II_TP_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3118,
+    "NOMBRE_EQUIPO": "POPSanMiguel_100G_OSN1800_II_TP_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3118,
+    "NOMBRE_EQUIPO": "POPSanMiguel_100G_OSN1800_II_TP_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3083,
+    "NOMBRE_EQUIPO": "POPLosOlivos_100G_OSN1800_II_TP_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3083,
+    "NOMBRE_EQUIPO": "POPLosOlivos_100G_OSN1800_II_TP_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4532,
+    "NOMBRE_EQUIPO": "LL3410_Nauta_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5038,
+    "NOMBRE_EQUIPO": "LPF3240_HuariacaPueblo_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3596,
+    "NOMBRE_EQUIPO": "LP3206_VillaRica_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 462,
+    "NOMBRE_EQUIPO": "PDIAtahualpa_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "ACD4353_LaCultura_3_OSN1800V-PRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 717,
+    "NOMBRE_EQUIPO": "PDIChiclayo_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 716,
+    "NOMBRE_EQUIPO": "TAF8305_Chimbote_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 720,
+    "NOMBRE_EQUIPO": "PDITrujillo_100G_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 717,
+    "NOMBRE_EQUIPO": "PDIChiclayo_100G_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3672,
+    "NOMBRE_EQUIPO": "LJ2714_Carhuamayo_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7578,
+    "NOMBRE_EQUIPO": "POPSanFelipe2_100G_OSN1800_II_TP_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 8295,
+    "NOMBRE_EQUIPO": "AM1925_Titire_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3093,
+    "NOMBRE_EQUIPO": "POPZarate_100G_OSN1800_II_TP_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6008,
+    "NOMBRE_EQUIPO": "LHF2927_Huanucocentro_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1196,
+    "NOMBRE_EQUIPO": "ACF4406_YAURI_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1824,
+    "NOMBRE_EQUIPO": "LCF2651_AltoPisco_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 620,
+    "NOMBRE_EQUIPO": "LI8841_LaMilla_MBB_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4534,
+    "NOMBRE_EQUIPO": "LCF2603_Nazca_1_OSN1800II-TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4514,
+    "NOMBRE_EQUIPO": "AR3927_Mogotes_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 736,
+    "NOMBRE_EQUIPO": "PDIArequipa_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3754,
+    "NOMBRE_EQUIPO": "LA2827_AyacuchoMirador_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 400,
+    "NOMBRE_EQUIPO": "POPAsia_100G_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7578,
+    "NOMBRE_EQUIPO": "POPSanFelipe2_100G_ OSN9800M12_ Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4534,
+    "NOMBRE_EQUIPO": "LC2603_Nazca_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6338,
+    "NOMBRE_EQUIPO": "LJ5009_MilagrosSatipo_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4578,
+    "NOMBRE_EQUIPO": "LCF2501_LasDunas_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4183,
+    "NOMBRE_EQUIPO": "AR3961_LaPunta_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3411,
+    "NOMBRE_EQUIPO": "AR3980_BaseOcona_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2895,
+    "NOMBRE_EQUIPO": "LJF2691_Tarma_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 105,
+    "NOMBRE_EQUIPO": "PDIPucallpa_100G_OSN9800M12_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1100,
+    "NOMBRE_EQUIPO": "ATD4790_BocaDelRio_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2548,
+    "NOMBRE_EQUIPO": "PDITacna_100G_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1550,
+    "NOMBRE_EQUIPO": "AR3861_ElPeral_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4708,
+    "NOMBRE_EQUIPO": "LVF3054_SantaBarbara_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "AC4353_LaCultura_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1737,
+    "NOMBRE_EQUIPO": "LV3068_Acostambo_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5829,
+    "NOMBRE_EQUIPO": "AR3880_Atiquipa_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5566,
+    "NOMBRE_EQUIPO": "LP3213_Chaupimarca_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1228,
+    "NOMBRE_EQUIPO": "LMF3501_PUERTO MALDONADO_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 821,
+    "NOMBRE_EQUIPO": "LI1003_Casapalca_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7747,
+    "NOMBRE_EQUIPO": "TA8196_Conococha_400G_OSN9800M12_servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4902,
+    "NOMBRE_EQUIPO": "LC2627_Chincha_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3093,
+    "NOMBRE_EQUIPO": "POPZarate_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2695,
+    "NOMBRE_EQUIPO": "ACD4492_Piscacucho_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2896,
+    "NOMBRE_EQUIPO": "LJD2693_LaMerced_OSN1800IITP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1552,
+    "NOMBRE_EQUIPO": "TAF5655_ElPinar_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2895,
+    "NOMBRE_EQUIPO": "LJD2691_Tarma_OSN1800IITP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2818,
+    "NOMBRE_EQUIPO": "LR3126_Andahuaylas_400G_9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4534,
+    "NOMBRE_EQUIPO": "LC2603_Nazca_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5703,
+    "NOMBRE_EQUIPO": "ACD4459_MachuPicchuCiudad_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5443,
+    "NOMBRE_EQUIPO": "TAD5631_Meiggs_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1195,
+    "NOMBRE_EQUIPO": "ACD4400_Urubamba_2_OSN1800V_PRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2774,
+    "NOMBRE_EQUIPO": "ARF3970_Chuquibamba_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5175,
+    "NOMBRE_EQUIPO": "APF4642_Desaguadero_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4113,
+    "NOMBRE_EQUIPO": "TJD5272_EstadioHuamachuco_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2698,
+    "NOMBRE_EQUIPO": "ACD4772_QUIQUIJANACUSIPATA_OSN1800V-PRO_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 720,
+    "NOMBRE_EQUIPO": "PDITrujillo_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1077,
+    "NOMBRE_EQUIPO": "APD4651_Azangaro_2_OSN1800V_Pro",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2907,
+    "NOMBRE_EQUIPO": "LJ2728_San_Martin_de_Pangoa_400G_OSN900M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3411,
+    "NOMBRE_EQUIPO": "AR3980_BaseOcona_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2145,
+    "NOMBRE_EQUIPO": "POPSantaAnita_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4933,
+    "NOMBRE_EQUIPO": "LAF2833_Puquio_2_OSN1800II-TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3596,
+    "NOMBRE_EQUIPO": "LPF3206_VillaRica_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5566,
+    "NOMBRE_EQUIPO": "LPF3213_Chaupimarca_OSN1800V PRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 428,
+    "NOMBRE_EQUIPO": "LHF3001_TingoMaria_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3475,
+    "NOMBRE_EQUIPO": "LC2602_LosCerrillos_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3093,
+    "NOMBRE_EQUIPO": "POPZarate_100G_OSN1800_II_TP_1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2394,
+    "NOMBRE_EQUIPO": "LR3145_Uripa_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3596,
+    "NOMBRE_EQUIPO": "LPF3206_VillaRica_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1228,
+    "NOMBRE_EQUIPO": "LMF3501_PuertoMaldonado1_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3742,
+    "NOMBRE_EQUIPO": "AT4803_CerroPara_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5177,
+    "NOMBRE_EQUIPO": "APD4648_Putina_1_OSN1800V_Pro",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1854,
+    "NOMBRE_EQUIPO": "ARD3888_BASEMOLLENDO_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 715,
+    "NOMBRE_EQUIPO": "PDICajamarca_100G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5633,
+    "NOMBRE_EQUIPO": "ARD3898_PuntaBombon_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5853,
+    "NOMBRE_EQUIPO": "LJ2686_Jauja_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6139,
+    "NOMBRE_EQUIPO": "TJF8751_Donfrancisco_9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7801,
+    "NOMBRE_EQUIPO": "LUF5714_CaPadreBernardo_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7747,
+    "NOMBRE_EQUIPO": "TAF8196_Conococha_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1797,
+    "NOMBRE_EQUIPO": "TPF6149_SanMartindePiura_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4578,
+    "NOMBRE_EQUIPO": "LC2501_LasDunas_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1071,
+    "NOMBRE_EQUIPO": "AP4652_Ayaviri_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1716,
+    "NOMBRE_EQUIPO": "LI0209_CerroChoque_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4578,
+    "NOMBRE_EQUIPO": "LC2501_LasDunas_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5175,
+    "NOMBRE_EQUIPO": "APF4642_Desaguadero_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3787,
+    "NOMBRE_EQUIPO": "PDIHuacho_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 737,
+    "NOMBRE_EQUIPO": "LJD8122_OroyaDorsal_OSN1800IITP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5829,
+    "NOMBRE_EQUIPO": "AR3880_Atiquipa_400G_OSN9800M12_SERVICIOS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "AP4744_Huisonroque_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2109,
+    "NOMBRE_EQUIPO": "POPOcharan_100G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2565,
+    "NOMBRE_EQUIPO": "LI0210_HIjosdeJerusalem_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 716,
+    "NOMBRE_EQUIPO": "TA8305_Chimbote_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2896,
+    "NOMBRE_EQUIPO": "LJF2693_LaMerced_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1453,
+    "NOMBRE_EQUIPO": "AC4570_Mollepata_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3501,
+    "NOMBRE_EQUIPO": "AC4451_Sicuani_400G_OSN9800M12_SERVICIOS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4831,
+    "NOMBRE_EQUIPO": "LIF0719_SegundoPolo_OSN9800M12_servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1824,
+    "NOMBRE_EQUIPO": "LC2651_AltoPisco_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2548,
+    "NOMBRE_EQUIPO": "PDITacna_100G_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3338,
+    "NOMBRE_EQUIPO": "AR4122_CruceArequipa_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7578,
+    "NOMBRE_EQUIPO": "POPSanFelipe2_100G_OSN1800_II_TP_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1136,
+    "NOMBRE_EQUIPO": "AMD4502_CalientaNegros_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4514,
+    "NOMBRE_EQUIPO": "AR3927_Mogotes_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3501,
+    "NOMBRE_EQUIPO": "AC4451_Sicuani_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7747,
+    "NOMBRE_EQUIPO": "TA8196_Conococha_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN9800P32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3787,
+    "NOMBRE_EQUIPO": "PDIHuacho_400G_OSN9800M12_Services",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2977,
+    "NOMBRE_EQUIPO": "LPF3217_PUERTO_BERMUDEZ_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3475,
+    "NOMBRE_EQUIPO": "LC2602_LosCerrillos_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_100G_OSN1800_II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 736,
+    "NOMBRE_EQUIPO": "PDIArequipa_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4058,
+    "NOMBRE_EQUIPO": "TP6128_Concordia_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4714,
+    "NOMBRE_EQUIPO": "TTF6302_GeneralMorzan_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1520,
+    "NOMBRE_EQUIPO": "AC4353_LaCultura_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4674,
+    "NOMBRE_EQUIPO": "ARF4069_Andagua_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3300,
+    "NOMBRE_EQUIPO": "LIF1009_PampaLibre_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1058,
+    "NOMBRE_EQUIPO": "TAF8101_KimanAyllu_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5177,
+    "NOMBRE_EQUIPO": "APD4648_Putina_2_OSN1800V_Pro",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5176,
+    "NOMBRE_EQUIPO": "APD4647_Ananea_OSN1800V_Pro",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5070,
+    "NOMBRE_EQUIPO": "LUF3609_AlexanderVonHumbolt_OSN9800",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3300,
+    "NOMBRE_EQUIPO": "LI1009_PampaLibre_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 637,
+    "NOMBRE_EQUIPO": "LIF5471_NogalesCañete_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4431,
+    "NOMBRE_EQUIPO": "PDIJuliaca_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5342,
+    "NOMBRE_EQUIPO": "LHF3618_PUERTO_SUNGARO_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4933,
+    "NOMBRE_EQUIPO": "LAF2833_Puquio_1_OSN1800II-TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5633,
+    "NOMBRE_EQUIPO": "ARD3898_PuntaBombon_OSN9800M12_SERVICIOS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 777,
+    "NOMBRE_EQUIPO": "POPMoquegua_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1071,
+    "NOMBRE_EQUIPO": "AP4652_Ayaviri_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1213,
+    "NOMBRE_EQUIPO": "ACF4448_DORSALCHIARAJE_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2344,
+    "NOMBRE_EQUIPO": "AC4433_Sivia_Pichari_400G_OSN900M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5566,
+    "NOMBRE_EQUIPO": "LP3213_Chaupimarca_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1077,
+    "NOMBRE_EQUIPO": "APD4651_Azangaro_1_OSN1800V_Pro",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 400,
+    "NOMBRE_EQUIPO": "POPAsia_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1136,
+    "NOMBRE_EQUIPO": "AMD4502_CalientaNegros_OSN1800II_TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5470,
+    "NOMBRE_EQUIPO": "TA5804_Huarmey_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3672,
+    "NOMBRE_EQUIPO": "LJ2714_Carhuamayo_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 831,
+    "NOMBRE_EQUIPO": "LC2513_Tate_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6139,
+    "NOMBRE_EQUIPO": "TJ8751_Donfrancisco_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 719,
+    "NOMBRE_EQUIPO": "LJ8308_PDIHuancayo_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 737,
+    "NOMBRE_EQUIPO": "LJ8122_OroyaDorsal_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2976,
+    "NOMBRE_EQUIPO": "LPF3214_CiudadConstitucion_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "APD4744_Huisonroque_1_OSN1800VPro",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2649,
+    "NOMBRE_EQUIPO": "LUF1228_NuevaAlejandria_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1552,
+    "NOMBRE_EQUIPO": "TA5655_ElPinar_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5470,
+    "NOMBRE_EQUIPO": "TAF5804_Huarmey_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4714,
+    "NOMBRE_EQUIPO": "TTF6302_GeneralMorzan_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1195,
+    "NOMBRE_EQUIPO": "ACD4400_Urubamba_1_OSN1800V_PRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2145,
+    "NOMBRE_EQUIPO": "POPSantaAnita_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3596,
+    "NOMBRE_EQUIPO": "LP3206_VillaRica_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5675,
+    "NOMBRE_EQUIPO": "AP4627_Llallahuani_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1100,
+    "NOMBRE_EQUIPO": "ATD4790_BocaDelRio_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2108,
+    "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN9800M12_2",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2344,
+    "NOMBRE_EQUIPO": "AC4433_Sivia_Pichari_400G_OSN900M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2952,
+    "NOMBRE_EQUIPO": "PDIIQUITOS_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5404,
+    "NOMBRE_EQUIPO": "LVF3064_PaucaraEsmeralda_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 407,
+    "NOMBRE_EQUIPO": "LR3127_Abancay_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_POLO01_OSN9800P32",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN9800M12-1",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5523,
+    "NOMBRE_EQUIPO": "LAF2831_Huanta_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3308,
+    "NOMBRE_EQUIPO": "LI1034_Oyon_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 535,
+    "NOMBRE_EQUIPO": "TJ5090_Chao_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2137,
+    "NOMBRE_EQUIPO": "POPHiguereta_400G_OSN9800M12_SERVICIOS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4902,
+    "NOMBRE_EQUIPO": "LCF22627_Chincha_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 718,
+    "NOMBRE_EQUIPO": "PDIIca_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1824,
+    "NOMBRE_EQUIPO": "LC2651_AltoPisco_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2907,
+    "NOMBRE_EQUIPO": "LJ2728_San_Martin_de_Pangoa_400G_OSN900M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4780,
+    "NOMBRE_EQUIPO": "LC2509_SanAntonio_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 7746,
+    "NOMBRE_EQUIPO": "TAF8871_HuallancaPueblo_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1058,
+    "NOMBRE_EQUIPO": "TA8101_KimanAyllu_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 948,
+    "NOMBRE_EQUIPO": "TJ5113_Trujillo_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5443,
+    "NOMBRE_EQUIPO": "TA5631_Meiggs_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 400,
+    "NOMBRE_EQUIPO": "POPAsia_100G_OSN9800M12_Servicios SIN SERVICIO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 8247,
+    "NOMBRE_EQUIPO": "PDIBarranca_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 958,
+    "NOMBRE_EQUIPO": "TJ5143_CerroRagache_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1550,
+    "NOMBRE_EQUIPO": "ARF3861_ElPeral_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5305,
+    "NOMBRE_EQUIPO": "LHF2929_Ambo_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3754,
+    "NOMBRE_EQUIPO": "LA2827_AyacuchoMirador_400G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1536,
+    "NOMBRE_EQUIPO": "APF4744_Huisonroque_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 5292,
+    "NOMBRE_EQUIPO": "LC2661_ParacasSur_400G",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 738,
+    "NOMBRE_EQUIPO": "POPAeropuerto_OSN1800VPRO",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 6338,
+    "NOMBRE_EQUIPO": "LJ5009_MilagrosSatipo_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 2137,
+    "NOMBRE_EQUIPO": "POPHiguereta_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3496,
+    "NOMBRE_EQUIPO": "LIF1000_Polo01_OSN9800M24",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1886,
+    "NOMBRE_EQUIPO": "LR3182_Cotabambas_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1213,
+    "NOMBRE_EQUIPO": "AC4448_Chiaraje_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4708,
+    "NOMBRE_EQUIPO": "LVF3054_SantaBarbara_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 4534,
+    "NOMBRE_EQUIPO": "LCF2603_Nazca_2_OSN1800II-TP",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3085,
+    "NOMBRE_EQUIPO": "POPSanJuan_100G_OSN9800UPS",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 3085,
+    "NOMBRE_EQUIPO": "PopSanJuan_100G_OSN9800M12_Servicios",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 466,
+    "NOMBRE_EQUIPO": "TC5838_Cutervo_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": 1753,
+    "NOMBRE_EQUIPO": "TC5845_BambaMarca_400G_OSN9800M12_EN_IMPLEMENTACION",
+    "VENDOR": "HUAWEI"
+  },
+  {
+    "ID_SITE": "5497",
+    "NOMBRE_EQUIPO": "TC5839_JaenNorte_400G_OSN9800M12",
+    "VENDOR": "HUAWEI"
+  }
+]

@@ -1,0 +1,612 @@
+[
+    {
+      "id1": "798",
+      "id2": "751",
+      "tipo": "FIBRA OPTICA DE TDP"
+    },
+    {
+      "id1": "4714",
+      "id2": "4460",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4532",
+      "id2": "2649",
+      "tipo": "Red MW"
+    },
+    {
+      "id1": "3022",
+      "id2": "3028",
+      "tipo": "FIBRA OPTICA DE TDP"
+    },
+    {
+      "id1": "3028",
+      "id2": "3334",
+      "tipo": "FIBRA OPTICA DE TDP"
+    },
+    {
+      "id1": "5236",
+      "id2": "717",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "717",
+      "id2": "5112",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "715",
+      "id2": "462",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "462",
+      "id2": "464",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "6139",
+      "id2": "464",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "6139",
+      "id2": "2599",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "969",
+      "id2": "5463",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5451",
+      "id2": "5450",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "535",
+      "id2": "4920",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4920",
+      "id2": "716",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "716",
+      "id2": "5443",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1552",
+      "id2": "5450",
+      "tipo": "FIBRA OPTICA DE TDP"
+    },
+    {
+      "id1": "7747",
+      "id2": "8247",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "428",
+      "id2": "6008",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5070",
+      "id2": "1735",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "7801",
+      "id2": "2649",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5070",
+      "id2": "5342",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5342",
+      "id2": "2976",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2976",
+      "id2": "2977",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "6008",
+      "id2": "5305",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5305",
+      "id2": "5038",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5038",
+      "id2": "5566",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5566",
+      "id2": "3308",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2977",
+      "id2": "3596",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3546",
+      "id2": "3347",
+      "tipo": "FIBRA OPTICA OSCURA"
+    },
+    {
+      "id1": "3596",
+      "id2": "2896",
+      "tipo": "FIBRA OPTICA DE TDP"
+    },
+    {
+      "id1": "2896",
+      "id2": "2895",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2895",
+      "id2": "737",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "821",
+      "id2": "737",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1737",
+      "id2": "4708",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5523",
+      "id2": "3754",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1520",
+      "id2": "407",
+      "tipo": "FIBRA OPTICA DE TDP"
+    },
+    {
+      "id1": "1520",
+      "id2": "1866",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3501",
+      "id2": "1213",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1213",
+      "id2": "1196",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2954",
+      "id2": "2955",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2962",
+      "id2": "1228",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5964",
+      "id2": "3050",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1228",
+      "id2": "5964",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3050",
+      "id2": "5801",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5082",
+      "id2": "1536",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5176",
+      "id2": "5177",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5177",
+      "id2": "1077",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1077",
+      "id2": "1536",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4902",
+      "id2": "1824",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4578",
+      "id2": "5292",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1824",
+      "id2": "5292",
+      "tipo": "FIBRA OPTICA OSCURA"
+    },
+    {
+      "id1": "4578",
+      "id2": "718",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "718",
+      "id2": "831",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4578",
+      "id2": "831",
+      "tipo": "FIBRA OPTICA OSCURA"
+    },
+    {
+      "id1": "4534",
+      "id2": "3475",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "736",
+      "id2": "1854",
+      "tipo": "FIBRA OPTICA DE TDP"
+    },
+    {
+      "id1": "2548",
+      "id2": "3742",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3596",
+      "id2": "3347",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1550",
+      "id2": "736",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1536",
+      "id2": "4431",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2363",
+      "id2": "0000",
+      "tipo": "FIBRA OPTICA INTERNEXA"
+    },
+    {
+      "id1": "2695",
+      "id2": "1111",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3197",
+      "id2": "2222",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "948",
+      "id2": "720",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "740",
+      "id2": "2108",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2108",
+      "id2": "4831",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4831",
+      "id2": "2105",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2111",
+      "id2": "2105",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4831",
+      "id2": "2137",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2105",
+      "id2": "2109",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "7578",
+      "id2": "3496",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3118",
+      "id2": "3081",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3081",
+      "id2": "738",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "738",
+      "id2": "620",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "620",
+      "id2": "2106",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2106",
+      "id2": "2133",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2122",
+      "id2": "2133",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2133",
+      "id2": "3496",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3496",
+      "id2": "2126",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1422",
+      "id2": "2141",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2141",
+      "id2": "2137",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3088",
+      "id2": "2140",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2140",
+      "id2": "2145",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2145",
+      "id2": "3088",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2145",
+      "id2": "3093",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "620",
+      "id2": "3083",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "738",
+      "id2": "7576",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3083",
+      "id2": "3084",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "7576",
+      "id2": "2565",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "3084",
+      "id2": "1716",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2565",
+      "id2": "1716",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4714",
+      "id2": "4461",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4461",
+      "id2": "4442",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4460",
+      "id2": "4060",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4060",
+      "id2": "4444",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4444",
+      "id2": "4442",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4442",
+      "id2": "3489",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1797",
+      "id2": "4058",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4058",
+      "id2": "5312",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2281",
+      "id2": "4907",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4064",
+      "id2": "4907",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "4064",
+      "id2": "433",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "736",
+      "id2": "1234",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1234",
+      "id2": "777",
+      "tipo": "FIBRA OPTICA DE REDESUR"
+    },
+    {
+      "id1": "777",
+      "id2": "4321",
+      "tipo": "FIBRA OPTICA DE REDESUR"
+    },
+    {
+      "id1": "4321",
+      "id2": "5675",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "736",
+      "id2": "3496",
+      "tipo": "FIBRA OPTICA DE TDP"
+    },
+    {
+      "id1": "3118",
+      "id2": "7578",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2106",
+      "id2": "3093",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2126",
+      "id2": "1422",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1422",
+      "id2": "3088",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2109",
+      "id2": "7578",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "2548",
+      "id2": "740",
+      "tipo": "RESPALDO SUBMARINO 100G"
+    },
+    {
+      "id1": "7801",
+      "id2": "2649",
+      "tipo": "Red MW LH"
+    },
+    {
+      "id1": "736",
+      "id2": "1",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "1",
+      "id2": "777",
+      "tipo": "FIBRA OPTICA DE REDESUR"
+    },
+    {
+      "id1": "777",
+      "id2": "2",
+      "tipo": "FIBRA OPTICA DE REDESUR"
+    },
+    {
+      "id1": "4033",
+      "id2": "4889",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "5497",
+      "id2": "466",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "875",
+      "id2": "715",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    },
+    {
+      "id1": "8295",
+      "id2": "3333",
+      "tipo": "FIBRA OPTICA DE CLARO"
+    }
+]

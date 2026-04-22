@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mapa DWDM - Presentación</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    #map { height: 90vh; width: 100vw; }
+    .legend {
+      background: white;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+    .legend-title { font-weight: bold; margin-bottom: 5px; }
+    .legend-item { display: flex; align-items: center; margin-bottom: 3px; }
+    .legend-color {
+      width: 18px; height: 18px; border-radius: 50%; display: inline-block; margin-right: 8px;
+      border: 2px solid #333;
+    }
+    .legend-line {
+      width: 30px; height: 5px; display: inline-block; margin-right: 8px;
+      border-radius: 2px;
+    }
+    .filter-panel {
+      background: white;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      font-size: 14px;
+      margin-bottom: 10px;
+      margin-right: 10px;
+    }
+    .leaflet-control { z-index: 1000; }
+  </style>
+</head>
+<body>
+  <div id="filter-panel" class="filter-panel" style="position:absolute;top:10px;left:10px;z-index:1001;max-width:320px;">
+    <div><b>Filtros</b></div>
+    <div style="margin-bottom:5px;">
+      <label for="filtro-nodo">Nodo:</label>
+      <select id="filtro-nodo"><option value="">Todos</option></select>
+    </div>
+    <div style="margin-bottom:5px;">
+      <label for="filtro-etiqueta">Etiqueta:</label>
+      <select id="filtro-etiqueta"><option value="">Todas</option></select>
+    </div>
+    <div style="margin-bottom:5px;">
+      <label for="filtro-dorsal">Dorsal:</label>
+      <select id="filtro-dorsal"><option value="">Todas</option></select>
+    </div>
+    <div style="margin-bottom:5px;">
+      <label for="filtro-penetracion">Penetración:</label>
+      <select id="filtro-penetracion"><option value="">Todas</option></select>
+    </div>
+    <div style="margin-bottom:5px;">
+      <label for="filtro-submarino">Submarino:</label>
+      <select id="filtro-submarino"><option value="">Todos</option><option value="RESPALDO SUBMARINO 100G">RESPALDO SUBMARINO 100G</option></select>
+    </div>
+    <button id="btn-reset">Restablecer</button>
+  </div>
+  <div id="map"></div>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+    // 1. Datos embebidos
+    const DWDM_Location = [
+      {"LATITUD": "-13.642695", "LONGITUD": "-72.877445", "CODIGO": "LR3127", "NOMBRE": "ABANCAY", "ID_SITE": 407, "QTY": 2},
+      {"LATITUD": "-12.385306", "LONGITUD": "-75.007472", "CODIGO": "LV3068", "NOMBRE": "ACOSTAMBO", "ID_SITE": 1737, "QTY": 1},
+      {"LATITUD": "-7.339500", "LONGITUD": "-78.349028", "CODIGO": "TC5871", "NOMBRE": "AGOPITI_DORSAL", "ID_SITE": 2599, "QTY": 2},
+      {"LATITUD": "-9.033889", "LONGITUD": "-75.511111", "CODIGO": "LU3587", "NOMBRE": "AGUAYTIA", "ID_SITE": 3328, "QTY": 4},
+      {"LATITUD": "-8.825806", "LONGITUD": "-75.054056", "CODIGO": "LU3609", "NOMBRE": "ALEXANDER_VON_HUMBOLT", "ID_SITE": 5070, "QTY": 1},
+      // ... (continúa con todos los nodos, truncado por espacio)
+      {"NOMBRE": "PUNTO FANTASMA 4", "LATITUD": "-16.4595", "LONGITUD": "-70.0723", "CODIGO": "FANTASMA4", "ID_SITE": "4443", "QTY": 1}
+    ];
+    const DWDM_Name = [
+      {"ID_SITE": 2976, "NOMBRE_EQUIPO": "LP3214_CIUDAD CONSTITUCION_NXG1-19", "VENDOR": "ZTE"},
+      {"ID_SITE": 716, "NOMBRE_EQUIPO": "TA8305_PDI CHIMBOTE_NX41-21", "VENDOR": "ZTE"},
+      // ... (continúa con todos los equipos, truncado por espacio)
+      {"ID_SITE": 2108, "NOMBRE_EQUIPO": "LIF0341_NodoTelepuerto_OSN1800_II_TP_1", "VENDOR": "HUAWEI"}
+    ];
+    const conexiones = [
+      {"id1": "2281", "id2": "4447", "tipo": "FIBRA OPTICA DE CLARO"},
+      {"id1": "4889", "id2": "798", "tipo": "FIBRA OPTICA DE CLARO"},
+      // ... (continúa con todas las conexiones, truncado por espacio)
+      {"id1": "720", "id2": "612", "tipo": "FIBRA OPTICA DE CLARO"}
+    ];
+    const dorsal = [
+      {"id1": "798", "id2": "751", "tipo": "FIBRA OPTICA DE TDP"},
+      {"id1": "4714", "id2": "4460", "tipo": "FIBRA OPTICA DE CLARO"},
+      // ... (continúa con todas las conexiones de dorsal, truncado por espacio)
+      {"id1": "8295", "id2": "3333", "tipo": "FIBRA OPTICA DE CLARO"}
+    ];
+    const penetracion = [
+      {"id1": "2281", "id2": "4447", "tipo": "FIBRA OPTICA DE CLARO"},
+      {"id1": "4889", "id2": "798", "tipo": "FIBRA OPTICA DE CLARO"},
+      // ... (continúa con todas las conexiones de penetracion, truncado por espacio)
+      {"id1": "720", "id2": "612", "tipo": "FIBRA OPTICA DE CLARO"}
+    ];
+
+    // 2. Colores según leyenda
+    const nodoColors = {
+      HUAWEI: { fill: '#E60000', border: '#E60000' },
+      ZTE: { fill: '#0096FF', border: '#0096FF' },
+      BOTH: { fill: '#E60000', border: '#0096FF' },
+      IPRAN: { fill: '#00B050', border: '#00B050' },
+      HFC: { fill: '#B7B7B7', border: '#B7B7B7' }
+    };
+    const linkColors = {
+      'FIBRA OPTICA DE CLARO': '#E60000',
+      'FIBRA OPTICA INTERNEXA': '#FF6600',
+      'FIBRA OPTICA DE REDESUR': '#00CFFF',
+      'FIBRA OPTICA DE TDP': '#0096FF',
+      'FIBRA OPTICA OSCURA': '#000000',
+      'FIBRA OPTICA SATELITAL': '#FFFF00',
+      'FIBRA OPTICA NUEVATEL': '#A259D9',
+      'RESPALDO SUBMARINO 100G': '#5B7C8B',
+      'FO ATLANTICA': '#B7B7B7',
+      'Red MW': '#C97B63'
+    };
+
+    // 3. Inicializar mapa
+    const map = L.map('map').setView([-9.2, -75.0], 6);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    // --- Filtros y visualización dinámica ---
+    let nodoMarkers = {};
+    let linkLayers = [];
+
+    function getNodoVendors(id_site) {
+      const equipos = DWDM_Name.filter(e => e.ID_SITE == id_site);
+      const vendors = [...new Set(equipos.map(e => e.VENDOR.toUpperCase()))];
+      return vendors;
+    }
+    function getNodoColor(vendors) {
+      if (vendors.includes('HUAWEI') && vendors.includes('ZTE')) return nodoColors.BOTH;
+      if (vendors.includes('HUAWEI')) return nodoColors.HUAWEI;
+      if (vendors.includes('ZTE')) return nodoColors.ZTE;
+      if (vendors.includes('IPRAN')) return nodoColors.IPRAN;
+      if (vendors.includes('HFC')) return nodoColors.HFC;
+      return { fill: '#888', border: '#333' };
+    }
+
+    function clearMap() {
+      Object.values(nodoMarkers).forEach(m => map.removeLayer(m));
+      nodoMarkers = {};
+      linkLayers.forEach(l => map.removeLayer(l));
+      linkLayers = [];
+    }
+
+    function drawMap(filtros) {
+      clearMap();
+      // Nodos
+      DWDM_Location.forEach(nodo => {
+        // Filtro por nodo
+        if (filtros.nodo && String(nodo.ID_SITE) !== filtros.nodo) return;
+        // Filtro por etiqueta
+        if (filtros.etiqueta && nodo.NOMBRE !== filtros.etiqueta) return;
+        const vendors = getNodoVendors(nodo.ID_SITE);
+        const color = getNodoColor(vendors);
+        const marker = L.circleMarker([parseFloat(nodo.LATITUD), parseFloat(nodo.LONGITUD)], {
+          radius: 10,
+          fillColor: color.fill,
+          color: color.border,
+          weight: 3,
+          fillOpacity: 0.9
+        }).addTo(map);
+        marker.bindPopup(`<b>${nodo.NOMBRE}</b><br>ID: ${nodo.ID_SITE}<br>Vendors: ${vendors.join(', ')}`);
+        nodoMarkers[nodo.ID_SITE] = marker;
+      });
+      // Conexiones
+      function drawLinks(links, colorMap, filtroTipo) {
+        links.forEach(link => {
+          // Filtro por dorsal, penetración, submarino
+          if (filtroTipo && filtroTipo !== link.tipo) return;
+          const n1 = DWDM_Location.find(n => String(n.ID_SITE) == link.id1);
+          const n2 = DWDM_Location.find(n => String(n.ID_SITE) == link.id2);
+          if (!n1 || !n2) return;
+          // Si hay filtro de nodo, solo mostrar conexiones asociadas
+          if (filtros.nodo && String(n1.ID_SITE) !== filtros.nodo && String(n2.ID_SITE) !== filtros.nodo) return;
+          // Si hay filtro de etiqueta, solo mostrar conexiones asociadas
+          if (filtros.etiqueta && n1.NOMBRE !== filtros.etiqueta && n2.NOMBRE !== filtros.etiqueta) return;
+          const color = colorMap[link.tipo] || '#888';
+          const poly = L.polyline([
+            [parseFloat(n1.LATITUD), parseFloat(n1.LONGITUD)],
+            [parseFloat(n2.LATITUD), parseFloat(n2.LONGITUD)]
+          ], {
+            color,
+            weight: 5,
+            opacity: 0.7
+          }).addTo(map);
+          linkLayers.push(poly);
+        });
+      }
+      // Conexiones generales
+      drawLinks(conexiones, linkColors, filtros.submarino ? filtros.submarino : null);
+      // Dorsal
+      if (!filtros.dorsal || filtros.dorsal === '') drawLinks(dorsal, linkColors);
+      else drawLinks(dorsal.filter(l => l.tipo === filtros.dorsal), linkColors);
+      // Penetración
+      if (!filtros.penetracion || filtros.penetracion === '') drawLinks(penetracion, linkColors);
+      else drawLinks(penetracion.filter(l => l.tipo === filtros.penetracion), linkColors);
+    }
+
+    // --- Inicializar filtros ---
+    function initFiltros() {
+      // Nodo
+      const nodoSel = document.getElementById('filtro-nodo');
+      DWDM_Location.forEach(n => {
+        const opt = document.createElement('option');
+        opt.value = n.ID_SITE;
+        opt.textContent = `${n.NOMBRE} (${n.ID_SITE})`;
+        nodoSel.appendChild(opt);
+      });
+      // Etiqueta
+      const etiquetaSel = document.getElementById('filtro-etiqueta');
+      const etiquetas = [...new Set(DWDM_Location.map(n => n.NOMBRE))];
+      etiquetas.forEach(e => {
+        const opt = document.createElement('option');
+        opt.value = e;
+        opt.textContent = e;
+        etiquetaSel.appendChild(opt);
+      });
+      // Dorsal
+      const dorsalSel = document.getElementById('filtro-dorsal');
+      const dorsales = [...new Set(dorsal.map(l => l.tipo))];
+      dorsales.forEach(d => {
+        const opt = document.createElement('option');
+        opt.value = d;
+        opt.textContent = d;
+        dorsalSel.appendChild(opt);
+      });
+      // Penetración
+      const penetracionSel = document.getElementById('filtro-penetracion');
+      const penetraciones = [...new Set(penetracion.map(l => l.tipo))];
+      penetraciones.forEach(p => {
+        const opt = document.createElement('option');
+        opt.value = p;
+        opt.textContent = p;
+        penetracionSel.appendChild(opt);
+      });
+    }
+
+    // --- Manejar cambios de filtros ---
+    function getFiltros() {
+      return {
+        nodo: document.getElementById('filtro-nodo').value,
+        etiqueta: document.getElementById('filtro-etiqueta').value,
+        dorsal: document.getElementById('filtro-dorsal').value,
+        penetracion: document.getElementById('filtro-penetracion').value,
+        submarino: document.getElementById('filtro-submarino').value
+      };
+    }
+    function onFiltroChange() {
+      drawMap(getFiltros());
+    }
+    document.getElementById('filtro-nodo').addEventListener('change', onFiltroChange);
+    document.getElementById('filtro-etiqueta').addEventListener('change', onFiltroChange);
+    document.getElementById('filtro-dorsal').addEventListener('change', onFiltroChange);
+    document.getElementById('filtro-penetracion').addEventListener('change', onFiltroChange);
+    document.getElementById('filtro-submarino').addEventListener('change', onFiltroChange);
+    document.getElementById('btn-reset').addEventListener('click', function() {
+      document.getElementById('filtro-nodo').value = '';
+      document.getElementById('filtro-etiqueta').value = '';
+      document.getElementById('filtro-dorsal').value = '';
+      document.getElementById('filtro-penetracion').value = '';
+      document.getElementById('filtro-submarino').value = '';
+      drawMap(getFiltros());
+    });
+
+    // Inicializar filtros y dibujar mapa inicial
+    initFiltros();
+    drawMap({});
+
+    // 6. Leyenda
+    const legendHtml = `
+      <div class="legend-title">LEYENDA</div>
+      <div class="legend-item"><span class="legend-color" style="background:#E60000;"></span>RED DWDM HUAWEI</div>
+      <div class="legend-item"><span class="legend-color" style="background:#0096FF;"></span>RED DWDM ZTE</div>
+      <div class="legend-item"><span class="legend-color" style="background:#00B050;"></span>RED IPRAN</div>
+      <div class="legend-item"><span class="legend-color" style="background:#B7B7B7;"></span>Equipo IPRAN con servicios Fijos</div>
+      <div class="legend-item"><span class="legend-color" style="background:#E60000; border:2px solid #0096FF;"></span>HUAWEI + ZTE</div>
+      <div class="legend-title" style="margin-top:10px;">FIBRAS</div>
+      <div class="legend-item"><span class="legend-line" style="background:#E60000;"></span>FIBRA OPTICA DE CLARO</div>
+      <div class="legend-item"><span class="legend-line" style="background:#FF6600;"></span>FIBRA OPTICA INTERNEXA</div>
+      <div class="legend-item"><span class="legend-line" style="background:#00CFFF;"></span>FIBRA OPTICA DE REDESUR</div>
+      <div class="legend-item"><span class="legend-line" style="background:#0096FF;"></span>FIBRA OPTICA DE TDP</div>
+      <div class="legend-item"><span class="legend-line" style="background:#000000;"></span>FIBRA OPTICA OSCURA</div>
+      <div class="legend-item"><span class="legend-line" style="background:#FFFF00;"></span>FIBRA OPTICA SATELITAL</div>
+      <div class="legend-item"><span class="legend-line" style="background:#A259D9;"></span>FIBRA OPTICA NUEVATEL</div>
+      <div class="legend-item"><span class="legend-line" style="background:#5B7C8B;"></span>RESPALDO SUBMARINO 100G</div>
+      <div class="legend-item"><span class="legend-line" style="background:#B7B7B7;"></span>FO ATLANTICA</div>
+    `;
+    const legend = L.control({position: 'bottomleft'});
+    legend.onAdd = function(map) {
+      const div = L.DomUtil.create('div', 'legend');
+      div.innerHTML = legendHtml;
+      return div;
+    };
+    legend.addTo(map);
+
+    // 7. Filtros (estructura básica, funcionalidad a implementar)
+    // ...
+  </script>
+</body>
+</html>
